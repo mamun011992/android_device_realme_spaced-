@@ -1,4 +1,4 @@
-Device tree for the Realme 8i/narzo 50 (RMX3151/RMX3286/spaced)
+https://github.com/mamun011992/android_device_realme_spaced-/actionsDevice tree for the Realme 8i/narzo 50 (RMX3151/RMX3286/spaced)
 =================================================
 
 The device codename for realme 8i is RMX3151.
